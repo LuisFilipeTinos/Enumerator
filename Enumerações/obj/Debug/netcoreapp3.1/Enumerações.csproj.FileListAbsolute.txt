@@ -1,0 +1,13 @@
+C:\Users\55149\Desktop\Work Space - Visual Studio\Enumerações\Enumerações\bin\Debug\netcoreapp3.1\Enumerações.exe
+C:\Users\55149\Desktop\Work Space - Visual Studio\Enumerações\Enumerações\bin\Debug\netcoreapp3.1\Enumerações.deps.json
+C:\Users\55149\Desktop\Work Space - Visual Studio\Enumerações\Enumerações\bin\Debug\netcoreapp3.1\Enumerações.runtimeconfig.json
+C:\Users\55149\Desktop\Work Space - Visual Studio\Enumerações\Enumerações\bin\Debug\netcoreapp3.1\Enumerações.runtimeconfig.dev.json
+C:\Users\55149\Desktop\Work Space - Visual Studio\Enumerações\Enumerações\bin\Debug\netcoreapp3.1\Enumerações.dll
+C:\Users\55149\Desktop\Work Space - Visual Studio\Enumerações\Enumerações\bin\Debug\netcoreapp3.1\Enumerações.pdb
+C:\Users\55149\Desktop\Work Space - Visual Studio\Enumerações\Enumerações\obj\Debug\netcoreapp3.1\Enumerações.csprojAssemblyReference.cache
+C:\Users\55149\Desktop\Work Space - Visual Studio\Enumerações\Enumerações\obj\Debug\netcoreapp3.1\Enumerações.AssemblyInfoInputs.cache
+C:\Users\55149\Desktop\Work Space - Visual Studio\Enumerações\Enumerações\obj\Debug\netcoreapp3.1\Enumerações.AssemblyInfo.cs
+C:\Users\55149\Desktop\Work Space - Visual Studio\Enumerações\Enumerações\obj\Debug\netcoreapp3.1\Enumerações.csproj.CoreCompileInputs.cache
+C:\Users\55149\Desktop\Work Space - Visual Studio\Enumerações\Enumerações\obj\Debug\netcoreapp3.1\Enumerações.dll
+C:\Users\55149\Desktop\Work Space - Visual Studio\Enumerações\Enumerações\obj\Debug\netcoreapp3.1\Enumerações.pdb
+C:\Users\55149\Desktop\Work Space - Visual Studio\Enumerações\Enumerações\obj\Debug\netcoreapp3.1\Enumerações.genruntimeconfig.cache
